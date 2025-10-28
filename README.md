@@ -7,7 +7,7 @@ Uma **landing page interativa** para apresentar serviços criativos de **gráfic
 ## 🌐 Acesse o Projeto Online
 
 👉 **Visualize agora:**  
-🔗 [LF-GRAPHICMOTION - Página Oficial](https://luccasfsilva.github.io/lf-graphicmotion/)
+🔗 [LF-GRAPHICMOTION - Página Oficial](https://luccasfsilva.github.io/lfgraphicmotion)
 
 *(Hospedado via GitHub Pages)*
 
